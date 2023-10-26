@@ -1,2 +1,7 @@
 20231011/Academy.txt
 #Ctrl+Sで保存する
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.vscode
