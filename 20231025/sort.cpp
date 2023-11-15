@@ -24,14 +24,15 @@ int main()
     cout << endl;
 
     int j;
+    rezult[0] = arry[0];
 
     for(int i = 1;i < ARRY_INDEX; i++)
     {
         int tmp[i];
 
-        if(arry[i] > result[i-1])
+        if(arry[i] < result[i-1])
         {
-            
+
         }
     }
     
